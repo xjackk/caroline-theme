@@ -66,7 +66,7 @@
 			(current-line (if window-system  "#37474f" "#3a3a3a")) 
 )
 
-	;; held my hand all through Burbon Street
+;; held my hand all through Burbon Street
   (custom-theme-set-faces
 
    'caroline ;; Some of the bluest eyes you have ever seen
@@ -79,12 +79,12 @@
    `(region ((t (:background ,caroline-bg-hi :foreground ,caroline-fg-hi))))
    `(header-line ((t (:foreground ,caroline-yellow
                                   :box (:line-width -1 :style released-button)))))
-	 ;; Flycheck
-	 ;; Baby, I love you - The Ramones
+ ;; Flycheck
+ ;; Baby, I love you - The Ramones
    `(flycheck-error ((t (:underline (:style wave :color ,caroline-lightpink)))))
    `(flycheck-warning ((t (:underline (:style wave :color ,caroline-lightpink)))))
 
-	 ;; Flymake
+ ;; Flymake
    `(flymake-warnline ((t (:underline (:style wave :color ,caroline-tealish) :background ,caroline-bg))))
    `(flymake-errline ((t (:underline (:style wave :color ,caroline-red) :background ,caroline-bg))))
 

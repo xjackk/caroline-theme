@@ -1,6 +1,8 @@
 ## Caroline
 
-An Emacs 24 color scheme.
+An Emacs 24 color scheme!
+
+![](/caroline.png)
 
 ## Manual Install
 
