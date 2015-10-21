@@ -10,11 +10,16 @@ An Emacs 24 color scheme!
 
 ## Manual Install
 
+Add this right here to your `.emacs` config file.
+![](/caroline4.png)
+
 ```emacs-lisp
 (load-theme 'caroline t)
 ```
 
-Emacs 24 will find the theme file whose name ends with -theme.el under the directory defined by variable custom-theme-load-path. Default directory is ~/.emacs.d/.
+Will have it load during emacs startup.
+
+`M-x load-theme RET caroline` will load it manually.
 
 Download caroline-theme.el to the directory ~/.emacs.d/themes/ and add this to your .emacs:
 
