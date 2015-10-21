@@ -4,6 +4,8 @@ An Emacs 24 color scheme!
 
 ![](/caroline.png)
 
+![](/caroline2.png)
+
 ## Manual Install
 
 ```emacs-lisp
