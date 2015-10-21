@@ -1,4 +1,4 @@
-## Caroline
+## Caroline, an Emacs 24 Theme
 
 An Emacs 24 color scheme!
 
