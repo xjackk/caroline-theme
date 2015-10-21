@@ -11,11 +11,10 @@ An Emacs 24 color scheme!
 ## Manual Install
 
 Add this right here to your `.emacs` config file.
+
 ![](/caroline4.png)
 
-```emacs-lisp
-(load-theme 'caroline t)
-```
+`(load-theme 'caroline t)`
 
 Will have it load during emacs startup.
 
@@ -27,3 +26,10 @@ Download caroline-theme.el to the directory ~/.emacs.d/themes/ and add this to y
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
 ```
 
+### Contributing
+
+Feel free to yank it down and do whatever you want with it.
+
+I have not added this to MELPA and don't think I will be. Sorry!
+
+Just wrote this for fun in  a day. (-:
