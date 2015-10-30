@@ -1,8 +1,9 @@
-;;; Caroline -- A trip down to New Orleans...
+;;; caroline-theme.el --- A trip down to New Orleans...
 
 ;; Author: Jack Killilea <jaaacckz1@gmail.com>
 ;; URL: https://github.com/xjackk/carolines-theme
 ;; Version: 0.0.1
+;; Package-Requires: ((emacs "24"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -181,5 +182,5 @@
                (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'caroline)
-;;; caroline-theme ends here
+;;; caroline-theme.el ends here
 
