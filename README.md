@@ -30,6 +30,4 @@ Download caroline-theme.el to the directory ~/.emacs.d/themes/ and add this to y
 
 Feel free to yank it down and do whatever you want with it.
 
-I have not added this to MELPA and don't think I will be. Sorry!
-
-Just wrote this for fun in  a day. (-:
+UPDATE : I just added this to MELPA as of 10/30/15.
