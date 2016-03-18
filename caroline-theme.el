@@ -78,7 +78,7 @@
    `(cursor ((t (:background ,caroline-fg :foreground ,caroline-bg))))
    `(highlight ((t (:background ,caroline-bg-hi))))
    `(region ((t (:background ,caroline-bg-hi :foreground ,caroline-fg-hi))))
-   `(header-line ((t (:foreground ,caroline-yellow
+   `(header-line ((t (:foreground ,caroline-grey-1
                                   :box (:line-width -1 :style released-button)))))
  ;; Flycheck
  ;; Baby, I love you - The Ramones
@@ -102,7 +102,7 @@
                                          :background ,caroline-grey-2
                                          :box (:line-width -1 :style released-button)))))
    `(mode-line-buffer-id ((t (:foreground ,caroline-bg :weight bold))))
-   `(minibuffer-prompt ((t (:foreground ,caroline-tealish))))
+   `(minibuffer-prompt ((t (:foreground ,caroline-bg-hi :weight bold :background , caroline-bg))))
 
 	 
 	 ;; Org Mode 
